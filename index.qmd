@@ -1,0 +1,124 @@
+---
+title: "Analisis Pengaruh Nilai Ekspor Kakao Terhadap PDB Indonesia"
+subtitle: "Metode Penelitian Politeknik APP Jakarta"
+author: "Amanda Cahya Pratama"
+date: 2024-01-11
+number-sections: true
+format:
+  html: default
+  docx: default
+---
+
+![](foto%20r/poltekapp.jpg)
+
+## Pendahuluan
+
+### Latar belakang
+
+Kakao merupakan salah satu komoditas unggulan yang berperan penting dalam sektor ekonomi Indonesia. Sebagai negara penghasil kakao terbesar ketiga di dunia, Indonesia memiliki potensi besar untuk memanfaatkan ekspor kakao sebagai sumber devisa. Namun, kontribusi nyata dari sektor ini terhadap Produk Domestik Bruto (PDB) belum sepenuhnya tereksplorasi. Beberapa penelitian sebelumnya menunjukkan hubungan signifikan antara ekspor komoditas pertanian dengan pertumbuhan ekonomi. Namun, masih sedikit penelitian yang secara spesifik membahas pengaruh ekspor kakao terhadap PDB Indonesia. Penelitian ini bertujuan untuk mengisi kesenjangan tersebut.
+
+### Ruang lingkup
+
+Penelitian ini memiliki batasan sebagai berikut:
+
+1.  Data yang digunakan adalah data ekspor kakao (dalam juta USD) dan PDB Indonesia (dalam triliun IDR) dari Badan Pusat Statistik (BPS) selama 5-10 tahun terakhir.
+
+2.  Analisis hanya mencakup hubungan linier sederhana antara nilai ekspor kakao dan PDB tanpa mempertimbangkan faktor eksternal seperti kebijakan perdagangan internasional atau fluktuasi harga global.
+
+Fokus utama adalah pengaruh langsung dari nilai ekspor kakao terhadap pertumbuhan ekonomi Indonesia.
+
+### Rumusan masalah
+
+1.  Seberapa besar kontribusi ekspor kakao terhadap PDB Indonesia?
+
+2.  Apakah terdapat hubungan signifikan antara nilai ekspor kakao dan pertumbuhan PDB Indonesia?
+
+3.  Bagaimana pola perubahan nilai ekspor kakao memengaruhi PDB Indonesia selama periode penelitian?
+
+### Tujuan dan manfaat penelitian
+
+Tujuan Penelitian
+
+1.  Menganalisis kontribusi ekspor kakao terhadap PDB Indonesia.
+
+2.  Mengidentifikasi hubungan signifikan antara nilai ekspor kakao dan pertumbuhan ekonomi Indonesia.
+
+3.  Menyediakan gambaran pola perubahan nilai ekspor kakao terhadap PDB Indonesia selama 5-10 tahun terakhir.
+
+Manfaat Penelitian
+
+1.  Bagi Pemerintah: Memberikan data empiris untuk pengambilan kebijakan dalam mendukung sektor kakao.
+
+2.  Bagi Petani dan Industri Kakao: Memberikan wawasan mengenai pentingnya peningkatan nilai tambah produk kakao.
+
+3.  Bagi Akademisi: Menambah referensi literatur mengenai pengaruh komoditas ekspor terhadap pertumbuhan ekonomi.
+
+## Studi pustaka
+
+Studi pustaka berfokus pada dasar teori dan konsep yang relevan dengan hubungan antara ekspor dan pertumbuhan ekonomi.
+
+1.  Teori Pertumbuhan Ekonomi: Berdasarkan teori David Ricardo dan Adam Smith, perdagangan internasional, termasuk ekspor komoditas, memainkan peran penting dalam meningkatkan pertumbuhan ekonomi suatu negara.
+
+2.  Komoditas Kakao: Kakao sebagai salah satu komoditas unggulan memiliki peran strategis dalam perdagangan internasional. Literatur sebelumnya menyebutkan pentingnya peningkatan nilai tambah produk kakao untuk meningkatkan daya saing.
+
+Penelitian Terkait:
+
+Penelitian dari UII yang berjudul "Pengaruh Ekspor Kakao terhadap PDB Indonesia" menunjukkan adanya hubungan signifikan antara peningkatan nilai ekspor kakao dan pertumbuhan ekonomi Indonesia dalam jangka panjang. Baca lebih lanjut
+
+Referensi yang digunakan mencakup jurnal internasional, laporan dari Badan Pusat Statistik, dan publikasi dari organisasi perdagangan kakao.
+
+## Metode penelitian
+
+Penelitian ini menggunakan pendekatan kuantitatif dengan metode regresi linier sederhana. Langkah-langkah penelitian meliputi:
+
+1.  Pengumpulan Data:
+
+    Data nilai ekspor kakao (dalam juta USD) dan PDB Indonesia (dalam triliun IDR) diambil dari laporan resmi Badan Pusat Statistik (BPS) selama periode 2014-2023.
+
+2.  Analisis Data:
+
+    Menggunakan perangkat lunak Excel dan hasil regresi untuk menentukan hubungan antara variabel independen (nilai ekspor kakao) dan variabel dependen (PDB).
+
+Hasil regresi menunjukkan persamaan linier: Y = 729.12X - 2E+09 dengan koefisien determinasi (R²) sebesar 0.2722, yang menunjukkan bahwa 27,22% variasi PDB dijelaskan oleh nilai ekspor kakao.
+
+### Data
+
+![](foto%20r/data.png)
+
+## Pembahasan
+
+### Pembahasan masalah
+
+![](foto%20r/r.png)
+
+![](foto%20r/r1.png)
+
+![](foto%20r/r2.png)
+
+Hasil analisis regresi menunjukkan bahwa terdapat hubungan positif antara nilai ekspor kakao dan PDB Indonesia, meskipun kontribusinya relatif kecil dengan R² sebesar 27,22%. Hal ini menunjukkan bahwa peningkatan nilai ekspor kakao dapat berkontribusi pada pertumbuhan PDB, tetapi pengaruhnya masih terbatas.
+
+Penyebab rendahnya kontribusi ini dapat disebabkan oleh:
+
+Ketergantungan pada bahan mentah: Sebagian besar kakao diekspor dalam bentuk bahan mentah dengan nilai tambah yang rendah.
+
+Fluktuasi harga pasar dunia: Harga kakao yang fluktuatif memengaruhi pendapatan ekspor.
+
+Kualitas produksi: Rendahnya kualitas kakao Indonesia dibandingkan negara pesaing seperti Ghana dan Pantai Gading.
+
+Oleh karena itu, diperlukan strategi untuk meningkatkan nilai tambah produk kakao, seperti pengembangan industri pengolahan kakao dan diversifikasi produk berbasis kakao.
+
+### Analisis masalah
+
+![](foto%20r/plot.png)
+
+## Kesimpulan
+
+Penelitian ini menunjukkan bahwa nilai ekspor kakao memiliki hubungan positif terhadap PDB Indonesia, meskipun kontribusinya masih relatif kecil. Hal ini menandakan perlunya upaya peningkatan kualitas, nilai tambah, dan diversifikasi produk kakao untuk meningkatkan kontribusinya terhadap perekonomian nasional.
+
+## Referensi
+
+Ikhtiari, L. (n.d.). Analisis Daya Saing Ekspor Kakao Indonesia. Universitas Islam Indonesia. Diakses dari https://dspace.uii.ac.id/handle/123456789/5450.
+
+Suryana, A. T., Fariyanti, A., & Rifin, A. (2015). Analisis perdagangan kakao Indonesia di pasar internasional. Diakses dari https://www.researchgate.net/publication/284617108_Analisis_Perdagangan_Kakao_Indonesia_di_Pasar_Internasional.
+
+Rosdiana, L. (2023). Pengaruh faktor eksternal terhadap ekspor kakao Indonesia. Jurnal Ilmiah Ilmu Pendidikan, 6(1), 124-135. Diakses dari https://jiip.stkipyapisdompu.ac.id/jiip/index.php/JIIP/article/view/1146.
